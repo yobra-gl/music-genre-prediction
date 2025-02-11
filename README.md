@@ -24,7 +24,7 @@ jupyter notebook
 
 Load and run the notebook file (Music prediction.ipynb).
 
-Usage
+#### Usage
 
 Load the dataset into the Jupyter Notebook.
 
@@ -33,4 +33,10 @@ Preprocess and clean the data.
 Train the machine learning model on the dataset.
 
 Use the trained model to predict music preferences based on user input.
+
+##### Contributing
+If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+###### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
