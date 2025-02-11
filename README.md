@@ -1,5 +1,6 @@
-# Project Name
-A brief description of what this project does and who's it's for.
+# Music Genre Prediction
+
+This project involves building a machine learning model that predicts a person's preferred music genre based on their age and gender.  The model was developed using Python and trained on a dataset containing music preferences.
 
 ## Table of Contents
 -[Installation](#installation)
@@ -8,4 +9,28 @@ A brief description of what this project does and who's it's for.
 -[License](#license)
 
 ### Installation
-Instructions on how to install and set up the project.
+Clone the repository (if applicable):
+
+https://github.com/yobra-gl/music-genre-prediction.git
+
+
+Install required dependencies:
+
+pip install pandas numpy scikit-learn
+
+Open Jupyter Notebook:
+
+jupyter notebook
+
+Load and run the notebook file (Music prediction.ipynb).
+
+Usage
+
+Load the dataset into the Jupyter Notebook.
+
+Preprocess and clean the data.
+
+Train the machine learning model on the dataset.
+
+Use the trained model to predict music preferences based on user input.
+
